@@ -33,7 +33,7 @@ const Home = () => {
     return (
         <Container>
             <Row className='mt-5'>
-                <Col className="col-md-9">
+                <Col className="col-md-10">
                     <TableData />
                 </Col>
                 <Col>
