@@ -1,2 +1,3 @@
+# Contact App
 ## This is an Practice react app using redux 
-(https://contact-redux-app.netlify.app)
+https://contact-redux-app.netlify.app
